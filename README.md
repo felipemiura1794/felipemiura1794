@@ -1,7 +1,6 @@
 ## Hi there 👋
 
-
-- Atualmente estou cursando a 2ª Série do Ensino Médio com Tecnico em Desenvolvimento de Sistemas
+Cursando o 2º ano de Desenvolvimento de Sistemas na ETEC Antônio Devisate
 
 <img alt="my stats" align="left" width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipemiura1794&layout=donut&theme=dracula&count_private=true&hide=Hack"/>
   
