@@ -1,7 +1,6 @@
-<div align="center">
-# Hi there 👋
+<div align="center"> 
 
-### Felipe Miura
+### Hello there, i'm Felipe Miura (João Felipe)
 
 Cursando o 2º ano de **Desenvolvimento de Sistemas** na ETEC Antônio Devisate
 
